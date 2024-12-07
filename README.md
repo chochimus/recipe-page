@@ -22,8 +22,8 @@ This is a preview image, click to view full size.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/chochimus/recipe-page](https://github.com/chochimus/recipe-page)
+- Live Site URL: [https://chochimus.github.io/recipe-page/](https://chochimus.github.io/recipe-page/)
 
 ## My process
 
